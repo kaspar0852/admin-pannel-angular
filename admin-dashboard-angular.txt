@@ -1,0 +1,25 @@
+making of admin dashboard angular
+
+
+
+first created a default component inside of layouts 
+
+then created a modules folder inside which we have dashboard and post component
+
+then created a shared folder which has the header footer and sidebar component
+
+import the default module in the app module
+
+then declared the dashboard and posts compnent in the default components module.ts
+and added Shared module in the imports.
+
+then in the shared module declared header footer and sidebar component
+and exported those header footer and sidebar component
+
+added routing whith like in pho 1
+
+esma header footer ko lagi material use gareko cha 
+
+sidevar open close garna event emitter use gareko cha header ma ani tespaxi default ma hernu 
+
+ani tespaxi highchart include garne shared module ma 
