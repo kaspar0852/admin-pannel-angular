@@ -1,5 +1,10 @@
 # AdminPannelAngular
 
+<img width="950" alt="admin-demo" src="https://user-images.githubusercontent.com/70440698/168237396-69b360a3-74c8-4437-86d6-76331c76a8fa.png">
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
